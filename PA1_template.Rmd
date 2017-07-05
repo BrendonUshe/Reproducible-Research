@@ -1,5 +1,5 @@
 ---
-title: "Reproducible Research: Peer Assessment 1"
+title: "Reproducible Research: Peer Assessment 1 Course 1"
 author: "Brendon Ushe"
 date: "05-JULY-2017"
 output: 
